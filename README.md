@@ -1,6 +1,6 @@
 # baltimorebolts.github.io
 Jekyll + Sass + Boostrap Based Website
-[Link to Site](http://baltimorebolts.github.io)
+[Link to Site](http://ethanjoyner.github.io/JusticeGeorgieWebsite/)
 
 ### Dev Environment
 - linux!!!
@@ -25,13 +25,3 @@ Jekyll + Sass + Boostrap Based Website
     - this will watch for updates to your `styles.sass` file and write the `styles.css` file for you
 - `git add .` + `git commit -m "commit message"` + `git push` to push your changes up
     - or use vscode integrated git
-
-### Design ideas
-- https://html5up.net/massively
-- https://html5up.net/alpha
-- https://templated.co/
-- https://www.team254.com/
-- Design notes can be found in DesignNotes.md
-
-### Dev fun ;)
-- Player 2 has joined the match
