@@ -2,7 +2,6 @@
 title: Justice's Website!
 layout: default
 ---
-
 {% include indi/banner.html %}
 {% include indi/quick-about.html %}
 {% include indi/quick-project-1.html %}
