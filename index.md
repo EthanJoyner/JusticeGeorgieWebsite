@@ -7,5 +7,4 @@ layout: default
 {% include indi/quick-project-1.html %}
 {% include indi/quick-project-2.html %}
 {% include indi/skills.html %}
-{% include indi/articles.html %}
-{% include indi/email.html %}
+{% include indi/article.html %}
