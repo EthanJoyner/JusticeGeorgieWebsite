@@ -1,7 +1,7 @@
 title: Justice Georgie 
 description: >-
     A personal website
-baseurl: ""
+baseurl: "/JusticeGeorgieWebsite/"
 url: ""
 include: ['_pages']
 markdown: kramdown
