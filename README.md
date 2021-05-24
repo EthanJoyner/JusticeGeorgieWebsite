@@ -1,4 +1,4 @@
-# baltimorebolts.github.io
+# justicegeorgiewebsite.github.io
 Jekyll + Sass + Boostrap Based Website
 [Link to Site](http://ethanjoyner.github.io/JusticeGeorgieWebsite/)
 
