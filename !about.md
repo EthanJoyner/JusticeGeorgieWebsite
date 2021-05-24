@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: EMWU - About
 permalink: /aboutme/
 ---
-About page gotta be made here
+{% include indi/aboutme.html %}

@@ -1,5 +1,5 @@
 ---
-title: Justice's Website!
+title: Embrace My World Unlimited
 layout: default
 ---
 {% include indi/banner.html %}

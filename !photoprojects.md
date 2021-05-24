@@ -1,6 +1,6 @@
 ---
 layout: default
-title: photography
+title: EMWU - Photography
 permalink: /photography/
 ---
 

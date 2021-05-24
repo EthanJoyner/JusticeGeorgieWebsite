@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cinematography
+title: EMWU - Cinematography
 permalink: /cinematography/
 ---
 
