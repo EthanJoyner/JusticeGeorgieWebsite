@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: Justice's Website!
 layout: default
 ---
