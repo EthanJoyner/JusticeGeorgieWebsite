@@ -1,6 +1,6 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /aboutme/
 ---
 About page gotta be made here
