@@ -1,6 +1,6 @@
 title: Justice Georgie 
 description: >-
-    A personal website
+    A Personal Website
 baseurl: "/JusticeGeorgieWebsite"
 url: ""
 include: ['_pages']

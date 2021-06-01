@@ -2,9 +2,9 @@
 title: Embrace My World Unlimited
 layout: default
 ---
-{% include indi/banner.html %}
-{% include indi/quick-about.html %}
-{% include indi/quick-project-1.html %}
-{% include indi/quick-project-2.html %}
-{% include indi/skills.html %}
-{% include indi/article.html %}
+
+{% include sep/banner.html %}
+{% include sep/SecOne.html %}
+{% include sep/SecTwo.html %}
+{% include sep/SecThree.html %}
+{% include sep/article.html %}
