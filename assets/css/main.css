@@ -4112,3 +4112,140 @@ input, select, textarea {
 					}
 
 	}
+/* Custom css */
+/* full */
+.bitpad-1{
+	padding: .5em;
+}
+.bitpad-2{
+	padding: 1em;
+}
+.bitpad-3{
+	padding: 2em;
+}
+.bitpad-4{
+	padding: 3em;
+}
+.bitpad-5{
+	padding: 4em;
+}
+.bitpad-6{
+	padding: 5em;
+}
+.bitpad-7{
+	padding: 6em;
+}
+
+.tbitpad-1{
+	padding-top: .5em;
+}
+.tbitpad-2{
+	padding-top: 1em;
+}
+.tbitpad-3{
+	padding-top: 2em;
+}
+.tbitpad-4{
+	padding-top: 3em;
+}
+.tbitpad-5{
+	padding-top: 4em;
+}
+.tbitpad-6{
+	padding-top: 5em;
+}
+.tbitpad-7{
+	padding-top: 6em;
+}
+
+.bbitpad-1{
+	padding-bottom: .5em;
+}
+.bbitpad-2{
+	padding-bottom: 1em;
+}
+.bbitpad-3{
+	padding-bottom: 2em;
+}
+.bbitpad-4{
+	padding-bottom: 3em;
+}
+.bbitpad-5{
+	padding-bottom: 4em;
+}
+.bbitpad-6{
+	padding-bottom: 5em;
+}
+.bbitpad-7{
+	padding-bottom: 6em;
+}
+
+
+.lbitpad-1{
+	padding-left: .5em;
+}
+.lbitpad-2{
+	padding-left: 1em;
+}
+.lbitpad-3{
+	padding-left: 2em;
+}
+.lbitpad-4{
+	padding-left: 3em;
+}
+.lbitpad-5{
+	padding-left: 4em;
+}
+.lbitpad-6{
+	padding-left: 5em;
+}
+.lbitpad-7{
+	padding-left: 6em;
+}
+
+.rbitpad-1{
+	padding-right: .5em;
+}
+.rbitpad-2{
+	padding-right: 1em;
+}
+.rbitpad-3{
+	padding-right: 2em;
+}
+.rbitpad-4{
+	padding-right: 3em;
+}
+.rbitpad-5{
+	padding-right: 4em;
+}
+.rbitpad-6{
+	padding-right: 5em;
+}
+.rbitpad-7{
+	padding-right: 6em;
+}
+
+.bitpad-1{
+	padding: .5em;
+}
+.bitpad-2{
+	padding: 1em;
+}
+.bitpad-3{
+	padding: 2em;
+}
+.bitpad-4{
+	padding: 3em;
+}
+.bitpad-5{
+	padding: 4em;
+}
+.bitpad-6{
+	padding: 5em;
+}
+.bitpad-7{
+	padding: 6em;
+}
+.alignCenter{
+	align-content: center;
+}
